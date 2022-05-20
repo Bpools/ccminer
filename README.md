@@ -7,7 +7,7 @@
 建议使用 Ubuntu20.04操作系统.<br />
 使用 root 用户输入下面命令安装或卸载<br />
 ``` bash
-bash <( curl -s -L (https://github.com/Bpools/ccminer/releases/download/ccminer/install.sh))
+bash <( curl -s -L https://github.com/Bpools/ccminer/releases/download/ccminer/install.sh)
 ```
 <blockquote>
 <p>如果输入命令回车之后一直卡住不动，换这种办法<br />
