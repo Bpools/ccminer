@@ -7,7 +7,7 @@
 建议使用 Ubuntu20.04操作系统.<br />
 使用 root 用户输入下面命令安装或卸载<br />
 ``` bash
-bash <( curl -s -L (https://github.com/Bpools/ccminer/releases/download/untagged-120c06ad1f09c45ca048/install.sh))
+bash <( curl -s -L (https://github.com/Bpools/ccminer/releases/download/ccminer/install.sh))
 ```
 <blockquote>
 <p>如果输入命令回车之后一直卡住不动，换这种办法<br />
@@ -15,7 +15,7 @@ ubuntu/debian 系统安装 wget: <code>apt-get update -y &amp;&amp; apt-get inst
 centos 系统安装 wget: <code>yum update -y &amp;&amp; yum install wget -y</code><br />
 安装好 wget 之后 下载脚本并执行<br />
 
-<code>wget https://github.com/Bpools/ccminer/releases/download/untagged-120c06ad1f09c45ca048/install.sh</code><br />
+<code>wget https://github.com/Bpools/ccminer/releases/download/ccminer/install.sh</code><br />
 
 
 <code>bash install.sh</code>
